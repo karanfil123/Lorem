@@ -10,6 +10,7 @@ namespace Lorem.Service.Exceptions
     {
         public NotFoundException(string message) : base(message)
         {
+        //denemesdfsdfsd
         }
     }
 }
