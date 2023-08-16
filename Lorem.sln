@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lorem.Core", "Lorem.Core\Lorem.Core.csproj", "{411E5549-506F-4395-A5DB-42831A7D8797}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lorem.Repository", "Lorem.Repository\Lorem.Repository.csproj", "{25DB3B22-F004-4067-8384-5D7D07C20D21}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lorem.Service", "Lorem.Service\Lorem.Service.csproj", "{E761E330-EC8B-4166-9762-C9DB9A5AB10A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lorem.Api", "Lorem.Api\Lorem.Api.csproj", "{708C7A29-2862-4F11-85A7-E24AAB16B7D4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lorem.Caching", "Lorem.Caching\Lorem.Caching.csproj", "{F319C57A-92E8-4440-A482-BA1432B8AAA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lorem.WebMvc", "Lorem.WebMvc\Lorem.WebMvc.csproj", "{0DF1529E-7951-4D1B-823D-D00F77D851A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{411E5549-506F-4395-A5DB-42831A7D8797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{411E5549-506F-4395-A5DB-42831A7D8797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{411E5549-506F-4395-A5DB-42831A7D8797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{411E5549-506F-4395-A5DB-42831A7D8797}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25DB3B22-F004-4067-8384-5D7D07C20D21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25DB3B22-F004-4067-8384-5D7D07C20D21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25DB3B22-F004-4067-8384-5D7D07C20D21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25DB3B22-F004-4067-8384-5D7D07C20D21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E761E330-EC8B-4166-9762-C9DB9A5AB10A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E761E330-EC8B-4166-9762-C9DB9A5AB10A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E761E330-EC8B-4166-9762-C9DB9A5AB10A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E761E330-EC8B-4166-9762-C9DB9A5AB10A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{708C7A29-2862-4F11-85A7-E24AAB16B7D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{708C7A29-2862-4F11-85A7-E24AAB16B7D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{708C7A29-2862-4F11-85A7-E24AAB16B7D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{708C7A29-2862-4F11-85A7-E24AAB16B7D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F319C57A-92E8-4440-A482-BA1432B8AAA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F319C57A-92E8-4440-A482-BA1432B8AAA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F319C57A-92E8-4440-A482-BA1432B8AAA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F319C57A-92E8-4440-A482-BA1432B8AAA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DF1529E-7951-4D1B-823D-D00F77D851A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DF1529E-7951-4D1B-823D-D00F77D851A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DF1529E-7951-4D1B-823D-D00F77D851A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DF1529E-7951-4D1B-823D-D00F77D851A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A1CB7CA-110C-4248-82B4-AD3078C04A18}
+	EndGlobalSection
+EndGlobal
